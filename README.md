@@ -1,6 +1,6 @@
 # BiGain: Unified Token Compression for Joint Generation and Classification
 
-Official implementation of the CVPR 2026 paper "BiGain: Unified Token Compression for Joint Generation and Classification".
+Official implementation of the CVPR 2026 paper [BiGain: Unified Token Compression for Joint Generation and Classification](https://arxiv.org/abs/2603.12240).
 
 <p align="center">
   <img src="asset/bigain_pipeline_new.png" width="90%">
